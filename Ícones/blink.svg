@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="9 -1 24 25">
+  <circle fill="#ff0000" stroke="none" cx="12" cy="12" r="12">
+    <animate attributeName="opacity" dur="5s" values="0;1;0" repeatCount="indefinite" begin="0.1" />
+  </circle>
+</svg>
